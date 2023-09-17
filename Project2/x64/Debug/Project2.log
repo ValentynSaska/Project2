@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(54,9): error C3861: 'strcmp': identifier not found
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(54,43): error C3861: 'strcmp': identifier not found
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(43,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(108,9): error C3861: 'strcmp': identifier not found
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(97,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(162,27): error C3861: 'strcmp': identifier not found
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(184,27): error C3861: 'strcmp': identifier not found
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(151,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(604,15): error C3861: 'strtok': identifier not found
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(605,15): error C3861: 'strtok': identifier not found
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(666,22): error C2065: 'i': undeclared identifier
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(667,17): warning C4473: 'fprintf' : not enough arguments passed for format string
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(667,17): message : placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(667,17): message : the missing variadic argument 3 is required by format string '%s'
+C:\Users\valen\Desktop\c++\Project2\Project2\MyForm.h(663,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

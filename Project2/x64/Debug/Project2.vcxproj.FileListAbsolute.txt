@@ -1,0 +1,4 @@
+C:\Users\valen\Desktop\c++\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\valen\Desktop\c++\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\valen\Desktop\c++\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\valen\Desktop\c++\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
